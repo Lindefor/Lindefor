@@ -2,7 +2,7 @@
 **Lindefor/Lindefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Me](assets/Welcome.png)
+![Me](assets/Me.png)
 
 
 I'm a 5th year Computer Science student at **KTH Royal Institute of Technology**, focusing on **DevOps** and **Machine Learning/Deep Learning**, with an additional passion for **Cyber Security**.
