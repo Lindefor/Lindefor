@@ -12,7 +12,7 @@ I'm a 5th year Computer Science student at **KTH Royal Institute of Technology**
 
 ## Current Personal Project
 
-### Vana - Simplifying Habit Tracking
+### [Vana](https://github.com/Lindefor/vana) - Simplifying Habit Tracking
 
 I'm developing **Vana**, an in-progress habit tracker built with **Electron** and **SvelteKit**. Vana aims to revolutionize the way you track habits by offering an intuitive and powerful interface. With its minimalistic and currently evolving design, it will keep your focus on what's truly important—your habits.
 
