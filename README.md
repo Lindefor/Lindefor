@@ -5,10 +5,10 @@
 ![Me](assets/Me.png)
 
 
-I'm a 5th year Computer Science student at **KTH Royal Institute of Technology**, focusing on **DevOps** and **Machine Learning/Deep Learning**, with an additional passion for **Cyber Security**.
+I'm a **KTH Royal Institute of Technology** graduate who is all about ML/Data, with an additional passion for **DevOps/DevEx**.
 
-- 🚀 Currently serving as the CIO at a startup where we're creating the future for **Digital Audio Workstations (DAWs)**. Stay **tuned** for our beta testing phase next year!
-- 🎓 Also working as a Teaching Assistant in a database course at KTH.
+- 🎩 Currently working as a ML/data consultant at Netlight!
+- 🚀 Also serving as the CIO and ML Lead at [Tuva](https://tuva.app/)!
 
 ## Current Personal Project
 
@@ -22,7 +22,7 @@ I'm developing **Vana**, an in-progress habit tracker built with **Electron** an
 
 🔗 **Feature Requests**: Have any ideas or suggestions? Feel free to (soon be able to) submit [feature requests](#) for Vana.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's talk!:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/martin-lindefors/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
